@@ -147,6 +147,7 @@ FLOWS = [
     "minecraft_server",
     "mobile_app",
     "monoprice",
+    "mopidy",
     "motion_blinds",
     "mqtt",
     "mullvad",

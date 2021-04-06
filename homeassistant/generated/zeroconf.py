@@ -90,6 +90,9 @@ ZEROCONF = {
     ],
     "_http._tcp.local.": [
         {
+            "domain": "mopidy"
+        },
+        {
             "domain": "shelly",
             "name": "shelly*"
         }
